@@ -47,7 +47,7 @@ namespace TransferProject
             {
 
                 Console.WriteLine("Oyuncu adı : " + player.PlayerName);
-                Console.WriteLine("Oyuncunun bonservis bedeli : " + player.PlayerPrice + " milyon euro ");
+                Console.WriteLine("Oyuncunun bonservis bedeli : " + player.PlayerPrice + " milyon euro");
                 Console.WriteLine("Oyuncunun kulübü : " + player.PlayerClub);
                 Console.WriteLine("-------------------------------");
             }
